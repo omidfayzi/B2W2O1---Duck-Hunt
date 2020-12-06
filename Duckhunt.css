@@ -1,0 +1,72 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #d0e8f2;
+}
+
+.cotainer {
+	margin: 0 auto;
+	display: block;
+	height: 760px;
+	width: 1280px;
+
+}
+
+#DucBkackground {
+	position: relative;
+	width: 100%;
+}
+
+#DuckGif {
+	position: absolute;
+	bottom: 300px;
+	left: 800px;
+	width: 200px;
+}
+
+#buttonLeft {
+	position: absolute;
+	padding: 10px;
+	font-size: 25px;
+	font-weight: 1;
+	color: white;
+	background-color: black;
+	right: 275px;
+	top: 700px;
+}
+
+#buttonRight {
+	position: absolute;
+	padding: 10px;
+	font-size: 25px;
+	font-weight: 1;
+	color: white;
+	background-color: black;
+	right: 150px;
+	top: 700px;
+}
+
+#buttonTop {
+	position: absolute;
+	padding: 10px;
+	font-size: 25px;
+	font-weight: 1;
+	color: white;
+	background-color: black;
+	top: 645px;
+	left: 150px;
+}
+
+#buttonBottom {
+	position: absolute;
+	padding: 10px;
+	font-size: 25px;
+	font-weight: 1;
+	color: white;
+	background-color: black;
+	left: 150px;
+	top: 700px;
+}
